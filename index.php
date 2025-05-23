@@ -7,7 +7,7 @@ $opciones = array(
     "PWD" => "Jesus-1234",
     "CharacterSet" => "UTF-8"
 );
-
+//Hola
 // Crear conexión
 $conexion = sqlsrv_connect($servidor, $opciones);
 
