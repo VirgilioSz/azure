@@ -1,6 +1,6 @@
 <?php
 // --- Conexión a SQL Server ---
-$servidor = "tcp:virgilio.database.windows.net,1433";
+$servidor = "tcp:20.10.0.4,1433";
 $opciones = array(
     "Database" => "formulario_app",
     "UID" => "virgilio",
