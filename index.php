@@ -4,7 +4,7 @@ $servidor = "tcp:virgilio.database.windows.net,1433";
 $opciones = array(
     "Database" => "formulario_app",
     "UID" => "virgilio",
-    "PWD" => "Jesus-1234",
+    "PWD" => "jesus-1234",
     "CharacterSet" => "UTF-8"
 );
 //Hola
