@@ -1,6 +1,6 @@
 <?php
 // --- Conexión a SQL Server ---
-$servidor = "tcp:20.10.0.4,1433";
+$servidor = "tcp:app-g8hxhgcpcnhvexh6.eastus2-01.azurewebsites.net,1433";
 $opciones = array(
     "Database" => "formulario_app",
     "UID" => "virgilio",
