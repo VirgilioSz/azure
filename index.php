@@ -4,7 +4,7 @@ $servidor = "tcp:formdb.database.windows.net,1433";
 $opciones = array(
     "Database" => "formdb",
     "UID" => "virgilio",
-    "PWD" => "jesus-1234",
+    "PWD" => "Jesus-1234",
     "CharacterSet" => "UTF-8"
 );
 //Hola
